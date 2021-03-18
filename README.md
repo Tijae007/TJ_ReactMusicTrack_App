@@ -2,7 +2,7 @@
 
 # TJ REACT TRACKS
 
-# About TJ pythReact Tracks
+# About TJ pythonReact Tracks
 It is an music server app built with Django, React.js, Graphql, Apollo Client, Cloudinary, Insomnia. It uses queries to create, edit, delete and like tracks using schema.py.
 
 # How to run
